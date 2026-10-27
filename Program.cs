@@ -15,3 +15,6 @@ Console.WriteLine();
 
 var totaal = TimeSpan.FromSeconds(nummers.Sum(n => n.Duur.TotalSeconds));
 Console.WriteLine($"Totale duur: {Weergave.Duur(totaal)}");
+
+
+Console.ReadKey();  
