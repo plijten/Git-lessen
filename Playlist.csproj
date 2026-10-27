@@ -13,6 +13,9 @@
     <None Update="data\nummers\daan.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="data\nummers\peter.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="data\nummers\sanne.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
